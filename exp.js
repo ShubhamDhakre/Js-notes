@@ -44,3 +44,8 @@ const arraya2 = array1.forEach((nav)=>{
 })
 
 console.log(arraya2)
+
+
+
+
+

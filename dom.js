@@ -1,0 +1,2 @@
+//.....e.stopPropogation
+//.....e.preventdefault
